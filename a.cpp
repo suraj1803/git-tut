@@ -8,7 +8,8 @@ void displayAge(int age) {
 
 int main()
 {
-	int age = 24;
+	int age;
+	cin >> age
 	displayAge(age);
 
 	return 0;
